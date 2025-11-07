@@ -1,6 +1,4 @@
-<!-- GitHub Profile README for github.com/Aliceast -->
-
-<h1 align="center">👋 Hi, I'm <span style="color:#00bfff;">Aliceast</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#00bfff;">Alice</span></h1>
 <h3 align="center">💻 Full-Stack & Game Developer | Passionate about Code, Design, and Innovation</h3>
 
 ---
