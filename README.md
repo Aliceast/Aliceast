@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00bfff;">Alice</span></h1>
+<h1 align="center">Welcome to my profile</h1>
 
 <p align="center">
     <a href="https://github.com/Aliceast/Aliceast/graphs/contributors"><img src="https://img.shields.io/github/contributors/Aliceast/Aliceast?color=blue"></a>
