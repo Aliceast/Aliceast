@@ -1,1 +1,58 @@
-# 你好，我是 [你的名字] <span class="emoji emoji1f44b"></span><br/><br/>[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)<br/>[![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blue)](https://github.com/yourusername)<br/><br/>## <span class="emoji emoji1f680"></span> 技术栈<br/><br/>### 前端开发<br/>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br/>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br/>![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)<br/><br/>### 后端与系统编程<br/>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br/>![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br/>![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)<br/>![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)<br/><br/>### 游戏开发<br/>![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)<br/>![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)<br/><br/>### 数据库<br/>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br/><br/>### 桌面应用开发<br/>![QT](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)<br/><br/>## <span class="emoji emoji1f4c8"></span> GitHub 统计<br/><br/>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)<br/><br/>![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)<br/><br/>## <span class="emoji emoji1f4c8"></span> 开发活动<br/><br/>![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github)<br/><br/>## <span class="emoji emoji1f3c6"></span> GitHub 奖杯<br/><br/>![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)<br/><br/>## <span class="emoji emoji1f468"></span>‍<span class="emoji emoji1f4bb"></span> 关于我<br/><br/>我是一名全栈开发者，对Web开发、游戏开发和桌面应用开发都有浓厚的兴趣。喜欢学习新技术，解决有挑战性的问题。<br/><br/>**兴趣领域：**<br/>- 🌐 全栈Web开发<br/>- 🎮 游戏开发与引擎技术<br/>- <span class="emoji emoji1f4bb"></span> 系统编程与性能优化<br/>- 🤖 人工智能与机器学习<br/><br/>## 🔭 当前项目<br/><br/>### <span class="emoji emoji1f3af"></span> 主要项目<br/>| 项目 | 描述 | 技术栈 |<br/>|------|------|--------|<br/>| [项目名称](项目链接) | 简要描述项目功能和特点 | Vue.js, Python, MySQL |<br/>| [项目名称](项目链接) | 简要描述项目功能和特点 | C++, QT, Unity |<br/>| [项目名称](项目链接) | 简要描述项目功能和特点 | .NET, C#, MySQL |<br/><br/>### 🛠️ 工具与库<br/>- [工具库名称](链接) - 功能描述...<br/>- [工具库名称](链接) - 功能描述...<br/><br/>## <span class="emoji emoji1f4d2"></span> 技能详情<br/><br/>### 精通<br/>- **前端**: Vue.js, HTML5, CSS3, JavaScript (ES6+)<br/>- **后端**: Python, C#, .NET Framework<br/>- **游戏开发**: Unity, Unreal Engine<br/>- **数据库**: MySQL, 数据库设计<br/><br/>### 熟悉<br/>- **系统编程**: C++, 内存管理, 多线程<br/>- **桌面开发**: QT框架, 跨平台应用开发<br/>- **工具链**: Git, Docker, 持续集成<br/><br/>## <span class="emoji emoji1f4eb"></span> 联系我<br/><br/>- <span class="emoji emoji1f4e7"></span> 邮箱：your.email@example.com<br/>- <span class="emoji emoji1f4bc"></span> LinkedIn：[你的LinkedIn个人资料链接]<br/>- 🌐 个人网站/博客：[你的网站链接]<br/>- <span class="emoji emoji1f426"></span> Twitter/X：[你的Twitter账号链接]<br/><br/>## <span class="emoji emoji1f4d1"></span> 最新动态<br/><br/><!-- 可以在这里添加你的最新动态 --><br/>- <span class="emoji emoji1f525"></span> 正在开发一个基于Vue和Python的全栈项目<br/>- <span class="emoji emoji1f680"></span> 学习深度学习与计算机视觉<br/>- <span class="emoji emoji1f4d2"></span> 阅读《设计模式》和《算法导论》<br/><br/>## <span class="emoji emoji1f3af"></span> 目标<br/><br/>- [ ] 掌握机器学习在游戏开发中的应用<br/>- [ ] 深入学习计算机图形学<br/>- [ ] 贡献开源项目<br/>- [ ] 完善全栈开发技能树<br/><br/>---<br/><br/><div align="center"><br/><br/>### <span class="emoji emoji1f49d"></span> 感谢访问我的主页！<br/>![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Profile README for github.com/Aliceast -->
+
+<h1 align="center">Hi 👋, I'm Aliceast</h1>
+<h3 align="center">💻 A passionate developer who loves creating beautiful and powerful applications 💡</h3>
+
+---
+
+### 🚀 About Me
+- 🎯 Focused on **Game Development**, **Desktop Software**, and **Web Applications**  
+- 🌱 Currently exploring **Unreal Engine**, **Unity**, and **.NET ecosystems**  
+- 🧠 Always learning new technologies to build better user experiences  
+- 💬 Ask me about **C++**, **Python**, **Vue**, or **C#/.NET**  
+- ⚡ Fun fact: I love combining art 🎨 and code 💻  
+
+---
+
+### 🧰 Tech Stack
+
+#### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue" />
+</p>
+
+#### ⚙️ Backend & Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,mysql" />
+</p>
+
+#### 🎮 Game & Desktop Development
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,qt" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aliceast&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliceast&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://github.com/Aliceast" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Aliceast-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:aliceast@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+⭐️ *“Code is like art — it reflects how you think.”*  
+Thanks for visiting! 😊
