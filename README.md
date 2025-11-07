@@ -1,4 +1,12 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00bfff;">Alice</span></h1>
+
+<p align="center">
+    <a href="https://github.com/Aliceast/Aliceast/graphs/contributors"><img src="https://img.shields.io/github/contributors/Aliceast/Aliceast?color=blue"></a>
+    <a href="https://github.com/Aliceast/Aliceast/stargazers"><img src="https://img.shields.io/github/stars/Aliceast/Aliceast.svg?logo=github"></a>
+    <a href="https://github.com/Aliceast/Aliceast/network/members"><img src="https://img.shields.io/github/forks/Aliceast/Aliceast.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Aliceast.Aliceast" alt="visitors"/>   
+</p>
+
 <h3 align="center">💻 Full-Stack & Game Developer | Passionate about Code, Design, and Innovation</h3>
 
 ---
