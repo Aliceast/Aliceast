@@ -2,6 +2,7 @@
 
 <!--   my-icons -->
 <p align="center">
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://github.com/C++/cpython"><img src="https://img.shields.io/badge/C++20-FF1493.svg"></a>
     <a href="https://github.com/Aliceast/Aliceast/graphs/contributors"><img src="https://img.shields.io/github/contributors/Aliceast/Aliceast?color=blue"></a>
     <a href="https://github.com/Aliceast/Aliceast/stargazers"><img src="https://img.shields.io/github/stars/Aliceast/Aliceast.svg?logo=github"></a>
