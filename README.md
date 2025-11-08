@@ -39,18 +39,18 @@
 
 ---
 
+## 🌐 Connect with Me
+<p align="left">
+  <a>E-Mail:1707009468@qq.com | Alice@urldmn.cn</a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aliceast&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliceast&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="left">
-  <a>E-Mail:1707009468@qq.com | Alice@urldmn.cn</a>
 </p>
 
 ---
