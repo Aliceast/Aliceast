@@ -41,10 +41,10 @@
 <img src="resources/svg/git.svg" width="40" height="40">
 <img src="resources/svg/mysql.svg" width="40" height="40">
 <img src="resources/svg/at.svg" width="40" height="40">
-<img src="resources/svg/unity.svg" width="40" height="40">
+<img src="https://skillicons.dev/icons?i=unity" />
 <img src="resources/svg/ue.svg" width="40" height="40">
 <img src="resources/svg/linux.svg" width="40" height="40">
-<img src="resources/svg/qt.svg" width="40" height="40">
+<img src="https://skillicons.dev/icons?i=qt" />
 </p>
 
 <!--<p align='center'>
