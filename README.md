@@ -38,13 +38,13 @@
 <img src="resources/svg/css.svg" width="40" height="40"></a>
 <img src="resources/svg/bash.svg" width="40" height="40"><br>
 <img src="resources/svg/dotnet.svg" width="40" height="40">
-<img src="resources/svg/arduino.svg" width="40" height="40">
 <img src="resources/svg/git.svg" width="40" height="40">
 <img src="resources/svg/mysql.svg" width="40" height="40">
 <img src="resources/svg/at.svg" width="40" height="40">
 <img src="resources/svg/unity.svg" width="40" height="40">
 <img src="resources/svg/ue.svg" width="40" height="40">
 <img src="resources/svg/linux.svg" width="40" height="40">
+<img src="resources/svg/mysql.svg" width="40" height="40">
 </p>
 
 <!--<p align='center'>
