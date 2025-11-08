@@ -50,12 +50,7 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://github.com/Aliceast" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Aliceast-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="1707009468@qq.com" target="_blank" 1707009468@qq.com>
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
-  </a>
+  <a>E-Mail:1707009468@qq.com | Alice@urldmn.cn</a>
 </p>
 
 ---
