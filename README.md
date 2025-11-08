@@ -3,9 +3,12 @@
 <p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=100&color=4A5897&center=true&vCenter=true&width=435&lines=Wecome+to+my+profile;I'm+Alice" alt="hello" /></p>
 
 <p align='center'>
-<a>
+  <a>
+    Connect with Me
+  </a>
+  <a>
   e-mail:alice@urldmn.cn|1707009468@qq.com
-</a>
+  </a>
 </p>
 
 <p align='center'><img src="resources/svg/line.svg" width="750" ></p>
