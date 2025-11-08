@@ -44,7 +44,7 @@
 <img src="resources/svg/unity.svg" width="40" height="40">
 <img src="resources/svg/ue.svg" width="40" height="40">
 <img src="resources/svg/linux.svg" width="40" height="40">
-<img src="resources/svg/mysql.svg" width="40" height="40">
+<img src="resources/svg/qt.svg" width="40" height="40">
 </p>
 
 <!--<p align='center'>
