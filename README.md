@@ -53,7 +53,7 @@
   <a href="https://github.com/Aliceast" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Aliceast-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:1707009468@qq.com" target="_blank">
+  <a href="1707009468@qq.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
   </a>
 </p>
