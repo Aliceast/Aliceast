@@ -4,7 +4,7 @@
 <h3 align="center">Connect with Me</h3>
 <p align='center'>
   <a>
-  e-mail:alice@urldmn.cn|1707009468@qq.com
+  E-mail:alice@urldmn.cn | 1707009468@qq.com QQ:1707009468
   </a>
 </p>
 
