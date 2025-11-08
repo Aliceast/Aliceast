@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=Aliceast&rank_icon=github&show_icons=true&show=reviews&hide_rank=true&theme=tokyonight&border_color=384373&bg_color=384373&text_color=E7E7E7&title_color=7186E6&border_radius=15&ring_color=608DD9&card_width=340" height="220" style="display:inline-block;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliceast&hide_progress=false&layout=donut&size_weight=0.5&count_weight=0.5&theme=tokyonight&border_color=384373&bg_color=384373&text_color=E7E7E7&title_color=7186E6&border_radius=15&card_width=280" height="220" style="display:inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aliceast&show_icons=true&theme=tokyonight&size_weight=0.5&count_weight=0.5&theme=tokyonight&border_color=384373&bg_color=384373&text_color=E7E7E7&title_color=7186E6&border_radius=15&card_width=280" height="220" style="display:inline-block;">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aliceast&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align='center'><img src="resources/svg/line.svg" width="750" ></p>
