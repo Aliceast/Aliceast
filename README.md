@@ -1,11 +1,8 @@
 <p align='center'><img src="resources/svg/header.svg"></p>
 
 <p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=100&color=4A5897&center=true&vCenter=true&width=435&lines=Wecome+to+my+profile;I'm+Alice" alt="hello" /></p>
-
+<h3 align="center">Connect with Me</h3>
 <p align='center'>
-  <a>
-    Connect with Me
-  </a>
   <a>
   e-mail:alice@urldmn.cn|1707009468@qq.com
   </a>
